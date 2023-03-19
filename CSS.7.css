@@ -1,0 +1,11 @@
+#grid {
+    width: 400px;
+    height: 300px;
+    display: table-row;
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: red;
+    text-align: center;
+}
